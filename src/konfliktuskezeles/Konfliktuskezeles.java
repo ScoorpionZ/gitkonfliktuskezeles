@@ -15,7 +15,7 @@ public class Konfliktuskezeles {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        String nev1;
+        String nev1="Ákos";
         String nev2;
     }
     
